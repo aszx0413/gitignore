@@ -1,8 +1,16 @@
 ##############################
+# Yii2 basic
+##############################
+# local config
+/config/db.php
+/config/params-local.php
+
+##############################
 # composer
 ##############################
 /vendor
 composer.lock
+composer.phar
 
 ##############################
 # 系统相关
