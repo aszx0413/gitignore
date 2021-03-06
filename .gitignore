@@ -1,0 +1,28 @@
+##############################
+# composer
+##############################
+/vendor
+composer.lock
+
+##############################
+# 系统相关
+##############################
+# Windows thumbnail cache
+Thumbs.db
+
+# MacOS
+.DS_Store
+
+##############################
+# IDE 相关
+##############################
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
