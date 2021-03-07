@@ -1,10 +1,12 @@
 ##############################
 # Yii2 basic
 ##############################
+# test
+TestController.php
+
 # local config
 /config/db.php
 /config/params-local.php
-
 
 ##############################
 # 其他
