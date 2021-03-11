@@ -5,14 +5,19 @@
 TestController.php
 
 # local config
-/config/db.php
-/config/params-local.php
+# Yii2 高级版，配置文件位于各个子系统目录下
+*/config/db.php
+*/config/params-local.php
+*/config/main-local.php
 
 ##############################
 # 其他
 ##############################
 # SSL
 .well-known
+
+# 公众号域名检测
+MP_*.txt
 
 ##############################
 # composer
