@@ -1,0 +1,43 @@
+##############################
+# 小程序
+##############################
+# test
+TestController.php
+
+# local config
+config.js
+
+##############################
+# 其他
+##############################
+# SSL
+.well-known
+
+##############################
+# npm
+##############################
+/node_modules
+package-lock.json
+
+##############################
+# 系统相关
+##############################
+# Windows thumbnail cache
+Thumbs.db
+
+# MacOS
+.DS_Store
+
+##############################
+# IDE 相关
+##############################
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
