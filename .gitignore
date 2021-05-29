@@ -1,7 +1,9 @@
 ##############################
 # Yii2 basic
 ##############################
+
 # test
+/tests
 TestController.php
 
 # local config
